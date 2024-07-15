@@ -1,1 +1,2 @@
-# Video-Frame-Extractor
+# Video Processing and Frame Extraction Project
+
