@@ -5,7 +5,7 @@ This project is an automated tool designed to process videos, extract frames, an
 
 ## Key Features
 
-1. **Video Download**: Automatically downloads a specified video from a given URL.
+1. **Video Download**: Automatically downloads a specified video from a given URL (specifically Google drive for the library that used).
 2. **Video Splitting**: Divides the downloaded video into manageable parts.
 3. **Frame Extraction**: Extracts frames from each video part at a specified frame rate.
 4. **Frame Selection**: Allows for the selection of specific frames for further processing.
